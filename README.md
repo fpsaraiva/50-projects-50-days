@@ -6,6 +6,16 @@ Meu objetivo é realizar 1 projeto por dia, apenas em dias da semana, durante 10
 
 A ideia foi praticar conceitos de programação que tenho aprendido recentemente e criar uma rotina de programação, através da aplicação de conhecimento em pequenos projetos reais. Na maior parte dos exercícios segui os requisitos originais, com pequenas alterações (aqui e ali) visuais.
 
+## Projetos
+
+|     | Projeto                                                                                                                     |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Expanding cards](https://github.com/fpsaraiva/50-projects-50-days/tree/main/1-expanding-cards)                             |
+| 02  | [Progress steps](https://github.com/fpsaraiva/50-projects-50-days/tree/main/2-progress-steps)                               |
+| 03  | [Rotating navigation](https://github.com/fpsaraiva/50-projects-50-days/tree/main/3-rotating-navigation)                     |
+| 04  | [Hidden search widget](https://github.com/fpsaraiva/50-projects-50-days/tree/main/4-hidden-search-widget)                   |
+| 05  | [Blurry loading](https://github.com/fpsaraiva/50-projects-50-days/tree/main/5-blurry-loading)                               |
+
 ## 🇺🇸
 
 This repository contains projects developed within Brad Traversy and Florin Pop [50 Projects In 50 Days - HTML, CSS & JavaScript](https://50projects50days.com/) Udemy's course.
