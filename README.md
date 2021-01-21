@@ -15,6 +15,16 @@ A ideia foi praticar conceitos de programação que tenho aprendido recentemente
 | 03  | [Rotating navigation](https://github.com/fpsaraiva/50-projects-50-days/tree/main/3-rotating-navigation)                     |
 | 04  | [Hidden search widget](https://github.com/fpsaraiva/50-projects-50-days/tree/main/4-hidden-search-widget)                   |
 | 05  | [Blurry loading](https://github.com/fpsaraiva/50-projects-50-days/tree/main/5-blurry-loading)                               |
+| 06  | [Scroll animation](https://github.com/fpsaraiva/50-projects-50-days/tree/main/6-scroll-animation)                           |
+| 07  | [Split landing page](https://github.com/fpsaraiva/50-projects-50-days/tree/main/7-split-LP)                                 |
+| 08  | [Form wave](https://github.com/fpsaraiva/50-projects-50-days/tree/main/8-form-wave)                                         |
+| 09  | [Sound board](https://github.com/fpsaraiva/50-projects-50-days/tree/main/9-sound-board)                                     |
+| 10  | [Dad jokes](https://github.com/fpsaraiva/50-projects-50-days/tree/main/10-dad-jokes)                                        |
+| 11  | [Key codes](https://github.com/fpsaraiva/50-projects-50-days/tree/main/11-key-codes)                                        |
+| 12  | [FAQ](https://github.com/fpsaraiva/50-projects-50-days/tree/main/12-faq)                                                    |
+| 13  | [Random choice picker](https://github.com/fpsaraiva/50-projects-50-days/tree/main/13-random-choice-picker)                  |
+| 14  | [Animated navigation](https://github.com/fpsaraiva/50-projects-50-days/tree/main/14-animated-navigation)                    |
+| 15  | [Increment counter](https://github.com/fpsaraiva/50-projects-50-days/tree/main/15-increment-counter)                        |
 
 ## 🇺🇸
 
