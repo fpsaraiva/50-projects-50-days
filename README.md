@@ -25,6 +25,16 @@ A ideia foi praticar conceitos de programação que tenho aprendido recentemente
 | 13  | [Random choice picker](https://github.com/fpsaraiva/50-projects-50-days/tree/main/13-random-choice-picker)                  |
 | 14  | [Animated navigation](https://github.com/fpsaraiva/50-projects-50-days/tree/main/14-animated-navigation)                    |
 | 15  | [Increment counter](https://github.com/fpsaraiva/50-projects-50-days/tree/main/15-increment-counter)                        |
+| 16  | [Drink water](https://github.com/fpsaraiva/50-projects-50-days/tree/main/16-drink-water)                                    |
+| 17  | [Movie API](https://github.com/fpsaraiva/50-projects-50-days/tree/main/17-movie-api)                                        |
+| 18  | [Background slider](https://github.com/fpsaraiva/50-projects-50-days/tree/main/18-background-slider)                        |
+| 19  | [Theme clock](https://github.com/fpsaraiva/50-projects-50-days/tree/main/19-theme-clock)                                    |
+| 20  | [Ripple effect](https://github.com/fpsaraiva/50-projects-50-days/tree/main/20-ripple-effect)                                |
+| 21  | [Drag and drop](https://github.com/fpsaraiva/50-projects-50-days/tree/main/21-drag-and-drop)                                |
+| 22  | [Drawing app](https://github.com/fpsaraiva/50-projects-50-days/tree/main/22-drawing-app)                                    |
+| 23  | [Kinetic loader](https://github.com/fpsaraiva/50-projects-50-days/tree/main/23-kinetic-loader)                              |
+| 24  | [Content placeholder](https://github.com/fpsaraiva/50-projects-50-days/tree/main/24-content-placeholder)                    |
+| 25  | [Sticky navbar](https://github.com/fpsaraiva/50-projects-50-days/tree/main/25-sticky-navbar)                                |
 
 ## 🇺🇸
 
