@@ -35,6 +35,16 @@ A ideia foi praticar conceitos de programação que tenho aprendido recentemente
 | 23  | [Kinetic loader](https://github.com/fpsaraiva/50-projects-50-days/tree/main/23-kinetic-loader)                              |
 | 24  | [Content placeholder](https://github.com/fpsaraiva/50-projects-50-days/tree/main/24-content-placeholder)                    |
 | 25  | [Sticky navbar](https://github.com/fpsaraiva/50-projects-50-days/tree/main/25-sticky-navbar)                                |
+| 26  | [Double vertical slider](https://github.com/fpsaraiva/50-projects-50-days/tree/main/26-double-vertical-slider)              |
+| 27  | [Toast notification](https://github.com/fpsaraiva/50-projects-50-days/tree/main/27-toast-notification)                      |
+| 28  | [Github profiles](https://github.com/fpsaraiva/50-projects-50-days/tree/main/28-github-profiles)                            |
+| 29  | [Double click heart](https://github.com/fpsaraiva/50-projects-50-days/tree/main/29-double-click-heart)                      |
+| 30  | [Auto text effect](https://github.com/fpsaraiva/50-projects-50-days/tree/main/30-auto-text-effect)                          |
+| 31  | [Password generator](https://github.com/fpsaraiva/50-projects-50-days/tree/main/31-password-generator)                      |
+| 32  | [Project checkboxes](https://github.com/fpsaraiva/50-projects-50-days/tree/main/32-project-checkboxes)                      |
+| 33  | [Notes app](https://github.com/fpsaraiva/50-projects-50-days/tree/main/33-notes-app)                                        |
+| 34  | [Animated countdown](https://github.com/fpsaraiva/50-projects-50-days/tree/main/34-animated%20countdown)                    |
+| 35  | [Image carousel](https://github.com/fpsaraiva/50-projects-50-days/tree/main/35-image-carousel)                              |
 
 ## 🇺🇸
 
